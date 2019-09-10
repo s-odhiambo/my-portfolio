@@ -1,8 +1,37 @@
-#nav{
-    position: stickty;
+.nav-item{
 color: aquamarine;
 }
-.body{
+#navbar{
+    position:sticky;
+    top:0px;
+
+}
+
+#container{
     font-family: 'Hi Melody', cursive;
-    font-size: 50px;
+    font-size: 30px;
+    background-image: url("https://cdn.pixabay.com/photo/2017/09/21/08/14/fantasy-2771073__340.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: flex;
+}
+h3{
+    border: 40px;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+}
+
+ img{
+    border-radius: 50%;
+}
+.image{
+    align-content: center;
+    padding-left: 400px;
+}
+.sup{
+    border: 1px solid black;
+    margin: 12px;
+    padding: 8px;
 }
