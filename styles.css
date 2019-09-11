@@ -1,7 +1,11 @@
+*{
+    padding:0;
+    margin:0;
+}
+
 #navbar{
     position:sticky;
     top:0px;
-    width:90%;
 }
 
 h3{
@@ -45,6 +49,7 @@ span{
 }
 #hobby{
     padding-left: 600px;
+
 }
 #para{
     float: left;
@@ -53,7 +58,4 @@ span{
 }
 #hob{
     margin-left: 250px;
-}
-#footer > img{
-
 }
