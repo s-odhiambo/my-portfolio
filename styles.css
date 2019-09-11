@@ -1,6 +1,7 @@
 #navbar{
     position:sticky;
     top:0px;
+    font-family: 'Chilanka', cursive;
 }
 
 h3{
@@ -40,13 +41,13 @@ h4{
     justify-content: space-between;
 }
 span{
-    font-size: 40px;
+    font-size: 28px;
     padding-left: 40px;
 }
 #hobby{
     padding-left: 600px;
-
 }
+
 #para{
     float: left;
     width: 35%;
@@ -57,5 +58,6 @@ span{
 }
 
 .hobby{
- padding-left: 650px;   
+ padding-left: 650px; 
+   
 }
