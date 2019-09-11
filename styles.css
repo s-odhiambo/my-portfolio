@@ -40,7 +40,8 @@ h4{
     justify-content: space-between;
 }
 span{
-    font-size: 45px;
+    font-size: 40px;
+    padding-left: 40px;
 }
 #hobby{
     padding-left: 600px;
