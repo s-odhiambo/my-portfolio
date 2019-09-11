@@ -1,27 +1,18 @@
-.nav-item{
-color: aquamarine;
-}
 #navbar{
     position:sticky;
     top:0px;
-
+    width:90%;
 }
 
-#container{
-    font-family: 'Hi Melody', cursive;
-    font-size: 30px;
-    background-image: url("https://cdn.pixabay.com/photo/2017/09/21/08/14/fantasy-2771073__340.jpg");
-    background-repeat: no-repeat;
-    background-size:cover;
-    background-position: flex;
-}
-h3{
-    border: 40px;
-}
 h3{
     text-align: center;
     text-decoration: underline;
 }
+
+h4{
+    text-decoration:underline;
+}
+
 
  img{
     border-radius: 50%;
@@ -34,4 +25,32 @@ h3{
     border: 1px solid black;
     margin: 12px;
     padding: 8px;
+}
+
+#work{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 25px;
+    padding:8px;
+}
+
+#back{
+    border: 1px solid black;
+    margin:12px;
+    padding:40px;
+    justify-content: space-between;
+}
+span{
+    font-size: 45px;
+}
+#hobby{
+    padding-left: 600px;
+}
+#para{
+    float: left;
+    width: 35%;
+    /* padding-right: 150px; */
+}
+#hob{
+    margin-left: 250px;
 }
