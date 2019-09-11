@@ -56,12 +56,14 @@ span{
 #hobby{
     padding-left: 600px;
     font-family: 'Amatic SC', cursive;
+    
 }
 
 #para{
     float: left;
     width: 35%;
     font-family: 'Amatic SC', cursive;
+    font-size: 25px;
 }
 
 #hob{
