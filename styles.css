@@ -3,6 +3,9 @@
     top:0px;
     font-family: 'Chilanka', cursive;
 }
+h1{
+font-family: 'Shadows Into Light', cursive;
+}
 
 h3{
     text-align: center;
@@ -26,6 +29,8 @@ h4{
     border: 1px solid black;
     margin: 12px;
     padding: 8px;
+font-family: 'Shadows Into Light', cursive;
+font-size: 25px;
 }
 
 #work{
