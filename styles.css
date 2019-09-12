@@ -54,9 +54,10 @@ span{
 }
 
 #hobby{
-    padding-left: 600px;
+    padding-left: 900px;
     font-family: 'Amatic SC', cursive;
     font-size:30px; 
+    
 }
 
 #para{
@@ -73,10 +74,10 @@ span{
 }
 
 .hobby{
- padding-left: 650px;  
+    padding-left: 650px;  
 }
 
 .content{
     font-family: 'Caveat', cursive;
-font-size:25px;
+    font-size:25px;
 }
