@@ -45,9 +45,9 @@ h4{
 #back{
     border: 1px solid black;
     margin:12px;
-    padding:40px;
+    padding:60px;
     justify-content: space-between;
-    padding-bottom: 20px;
+    padding-bottom: 100px;
 }
 
 span{
