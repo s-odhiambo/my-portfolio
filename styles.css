@@ -5,6 +5,8 @@
 }
 h1{
     font-family: 'Itim', cursive;
+    padding-right: 40px;
+    color: whitesmoke;
 }
 
 h3{
@@ -24,14 +26,20 @@ h4{
 .image{
     align-content: center;
     padding-left: 500px;
+    background-image: url("https://image.shutterstock.com/image-photo/man-using-project-management-software-260nw-1118068022.jpg");
+    height:768px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 50px;
 }
 .sup{
     border: 1px solid black;
     margin: 12px;
-    padding: 8px;
+    /* padding: 9px; */
     font-family: 'Itim', cursive;
     font-size: 30px;
     text-align: center;
+    margin-top:100px;
 }
 
 #work{
@@ -40,6 +48,7 @@ h4{
     font-size: 25px;
     padding:8px;
     font-family: 'Itim', cursive;
+    margin-top:100px;
 }
 
 #back{
@@ -54,7 +63,7 @@ span{
     font-size: 25px;
     padding-left: 20px;
     font-family: 'Itim', cursive;
-    padding: 0px;
+    padding: 13px;
 }
 
 .sk{
@@ -97,7 +106,8 @@ span{
 
 h1{
     text-decoration: underline;
-    padding:1px;
+    padding-right: 60px;
+    justify-content: center;
 }
 
 .pin{
@@ -105,6 +115,6 @@ h1{
     text-align: center;
     font-family: 'Itim', cursive;
 }
-.sp{
-    
+.im{
+    padding-left: 500px;
 }
