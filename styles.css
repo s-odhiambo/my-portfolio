@@ -1,4 +1,4 @@
-#navbar{
+navbar{
     position:sticky;
     top:0px;
     font-family: 'Chilanka', cursive;
@@ -40,15 +40,15 @@ h4{
     font-size: 30px;
     text-align: center;
     margin-top:50px;
-    background-color:#4DB6AC;
-    color:whitesmoke;
+    background-color:#03353e;
+    color:#bfef55;
 }
 
-#work{
+.work{
     text-align: center;
     text-decoration: underline;
     font-size: 25px;
-    padding:8px;
+    padding-bottom: 180px;
     font-family: 'Itim', cursive;
     margin-top:50px;
 }
@@ -103,7 +103,7 @@ span{
 }
 
 #p{
-    color:black;
+    color: #C5C6C7;
     padding-top: 0px
 }
 
@@ -131,8 +131,8 @@ h1{
     text-decoration: underline;
     padding-top:50px;
 }
-
-#work{
-    padding-bottom: 170px;
+ 
+.color{
+    background-color: #0B0C10;
 }
 
