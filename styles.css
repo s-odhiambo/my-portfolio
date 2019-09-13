@@ -42,13 +42,11 @@ h4{
 .sup{
     border: 1px solid black;
     margin: 12px;
-    /* padding: 9px; */
+
     font-family: 'Itim', cursive;
     font-size: 30px;
     text-align: center;
     margin-top:50px;
-    background-color:#03353e;
-    color:#bfef55;
 }
 
 .work{
@@ -110,7 +108,6 @@ span{
 }
 
 #p{
-    color: #C5C6C7;
     padding-top: 0px
 }
 
@@ -134,9 +131,6 @@ span{
 }
  
 .color{
-    background-color: #0B0C10;
+    background-color:
 }
 
-#all{
-    background-color: #0B0C10;
-}
