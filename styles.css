@@ -123,8 +123,9 @@ h1{
 }
 
 #move{
-    padding-left:620px;
+    padding-left:610px;
     font-family: 'Itim', cursive;
-    
+    font-size: 25px;
+    text-decoration: underline;
 }
 
