@@ -1,136 +1,61 @@
-navbar{
-    position:sticky;
-    top:0px;
+#navbar{
+    position: sticky;
     font-family: 'Chilanka', cursive;
 }
-h1{
-    font-family: 'Itim', cursive;
-    padding-right: 40px;
-    color: whitesmoke;
-}
 
-h2{
-    text-decoration: underline;
-    padding-right: 60px;
-    justify-content: center;
-    padding-top: 70px;
-}
-
-h3{
-    text-align: center;
-    text-decoration: underline;
-    font-family: 'Itim', cursive;
-}
-
-h4{
-    text-decoration:underline;
-}
-
-
- img{
-    border-radius: 50%;
-}
 .image{
-    align-content: center;
-    padding-left: 500px;
-    background-image: url("https://image.shutterstock.com/image-photo/man-using-project-management-software-260nw-1118068022.jpg");
-    height:768px;
+    font-family: 'Itim', cursive;
+    text-align: center;
+    color: whitesmoke;
+    background-image: url("https://cdn.pixabay.com/photo/2016/02/20/09/46/signature-1211779__340.jpg");
+    height:601px;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .sup{
-    border: 1px solid black;
-    margin: 12px;
-
-    font-family: 'Itim', cursive;
-    font-size: 30px;
+    border:1px solid black;
     text-align: center;
-    margin-top:50px;
+    font-family: 'Itim', cursive;
+    font-size: 25px;    
 }
 
-.work{
-    text-align: center;
+h1{
+    padding-top:10%;
+}
+
+h2{
     text-decoration: underline;
-    font-size: 25px;
-    padding-bottom: 180px;
-    font-family: 'Itim', cursive;
-    margin-top:50px;
-}
-
-#back{
-    border: 1px solid black;
-    margin:12px;
-    padding:60px;
-    justify-content: space-between;
-    padding-bottom: 100px;
-}
-
-span{
-    font-size: 25px;
-    padding-left: 20px;
-    font-family: 'Itim', cursive;
-    padding: 13px;
-}
-
-.sk{
     text-align: center;
     font-family: 'Itim', cursive;
-}
-
-#hobby{
-    padding-left: 900px;
-    font-family: 'Itim', cursive;
-    font-size:25px; 
-}
-
-#para{
-    float: left;
-    width: 35%;
-    font-family: 'Itim', cursive;
-    font-size: 25px;
-    padding: 0px;
-}
-
-#hob{
-    margin-left: 250px;
-    font-family: 'Itim', cursive;
-    font-size: 25px;
-}
-
-.hobby{
-    padding-left: 650px;  
-}
-
-.content{
-    font-family: 'Itim', cursive;
-    font-size:25px;
-}
-
-#p{
-    padding-top: 0px
-}
-
-.pin{
-    font-size: 25px;
-    text-align: center;
-    font-family: 'Itim', cursive;
-}
-.im{
-    padding-left: 500px;
-    padding-bottom: 0px;
-     
 }
 
 #move{
-    padding-left:610px;
+    padding-left:500px;
     font-family: 'Itim', cursive;
-    font-size: 25px;
     text-decoration: underline;
-    padding-top:50px;
-}
- 
-.color{
-    background-color:
+    padding-top:30px;
 }
 
+.row{
+    font-family: 'Itim', cursive;
+}
+
+form{
+    width: 70%;
+    margin-left: 15%;
+}
+.view{
+    margin-left: 30%;
+}
+#col{
+    margin-left: 35px;
+}
+
+#tl{
+    margin-left: 10%;
+}
+
+img{
+    border-radius: 50%;
+}
