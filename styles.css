@@ -8,9 +8,18 @@
     text-align: center;
     color: whitesmoke;
     background-image: url("https://cdn.pixabay.com/photo/2016/02/20/09/46/signature-1211779__340.jpg");
-    height:601px;
+    height:616px;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+#about{
+    background-color: teal;
+    color:whitesmoke;
+}
+
+#projects{
+    background-color: #009688;
 }
 
 .sup{
